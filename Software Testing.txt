@@ -2,3 +2,10 @@ types of testing
 blackbox
 greybox
 whitebox
+
+automation tools are
+selenium
+cypress
+playwright
+jashmine
+restapi
